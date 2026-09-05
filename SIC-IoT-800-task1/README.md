@@ -1,1 +1,0 @@
-# SIC-IoT-800-task1
